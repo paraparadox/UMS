@@ -61,7 +61,7 @@
                                         {{ __('Logout') }}
                                     </a>
 
-                                    <a class="dropdown-item" href="{{ route("users.index") }}">
+                                    <a class="dropdown-item" href="{{ route("admin.users.index") }}">
                                         User Management
                                     </a>
 
